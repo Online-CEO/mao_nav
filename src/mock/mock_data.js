@@ -47,6 +47,20 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1775400498197",
+          "name": "城通网盘临时文件",
+          "url": "https://url45.ctfile.com/d/13260945-162285496-00d15c?p=1207",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1775400560086",
+          "name": "永硕E盘",
+          "url": "https://upsub.ysepan.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -517,7 +531,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "UPSUB - 优阅导航",
-  "search": "bing",
-  "_fileSha": "83035c696da29fa32a75d9b2cc8a81041f5bf822"
+  "title": "猫猫导航🐱",
+  "search": "bing"
 }

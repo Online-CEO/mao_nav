@@ -53,14 +53,21 @@ export const mockData = {
           "name": "城通网盘临时文件",
           "url": "https://url45.ctfile.com/d/13260945-162285496-00d15c?p=1207",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/url45.ctfile.com"
         },
         {
           "id": "site-1775400560086",
           "name": "永硕E盘",
           "url": "https://upsub.ysepan.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/upsub.ysepan.com"
+        },
+        {
+          "id": "site-1775400622014",
+          "name": "订阅管理系统",
+          "url": "https://dd.upsubs.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dd.upsubs.com"
         }
       ]
     },

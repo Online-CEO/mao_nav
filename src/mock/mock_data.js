@@ -68,6 +68,41 @@ export const mockData = {
           "url": "https://dd.upsubs.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dd.upsubs.com"
+        },
+        {
+          "id": "site-1775400712305",
+          "name": "Proxy订阅中心",
+          "url": "https://px.dns1.qzz.io",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/px.dns1.qzz.io"
+        },
+        {
+          "id": "site-1775400772611",
+          "name": "Search 影视搜索🔍",
+          "url": "https://t.upsubs.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/t.upsubs.com"
+        },
+        {
+          "id": "site-1775400817191",
+          "name": "Telegraph-Image 图床工具",
+          "url": "https://img.upsubs.us.ci/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/img.upsubs.us.ci"
+        },
+        {
+          "id": "site-1775400873461",
+          "name": "Proxy订阅网edg",
+          "url": "https://edg.kkss.dpdns.org",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/edg.kkss.dpdns.org"
+        },
+        {
+          "id": "site-1775400914151",
+          "name": "优阅官网",
+          "url": "https://upsubs.com",
+          "description": "",
+          "icon": "https://img.upsubs.us.ci/file/AgACAgUAAyEGAATSBiixAAMDacAi2CWdJBLPTuD7Dkn_J5fA6TAAApAMaxvmHwFWfi84MoryQGkBAAMCAAN5AAM6BA.jpg"
         }
       ]
     },

@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "https://img.upsubs.us.ci/file/AgACAgUAAyEGAATSBiixAAMDacAi2CWdJBLPTuD7Dkn_J5fA6TAAApAMaxvmHwFWfi84MoryQGkBAAMCAAN5AAM6BA.jpg"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "site-1775400498197",
           "name": "城通网盘临时文件",
           "url": "https://url45.ctfile.com/d/13260945-162285496-00d15c?p=1207",
@@ -246,6 +239,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -567,6 +567,5 @@ export const mockData = {
     }
   ],
   "title": "优阅导航🧭",
-  "search": "bing",
-  "_fileSha": "5f643abd42d8880f109179532101e22be2659c45"
+  "search": "bing"
 }

@@ -7,6 +7,13 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1775400914151",
+          "name": "优阅官网",
+          "url": "https://upsubs.com",
+          "description": "",
+          "icon": "https://img.upsubs.us.ci/file/AgACAgUAAyEGAATSBiixAAMDacAi2CWdJBLPTuD7Dkn_J5fA6TAAApAMaxvmHwFWfi84MoryQGkBAAMCAAN5AAM6BA.jpg"
+        },
+        {
           "id": "github",
           "name": "GitHub",
           "url": "https://github.com",
@@ -35,13 +42,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/dd.upsubs.com"
         },
         {
-          "id": "site-1775400712305",
-          "name": "Proxy订阅中心",
-          "url": "https://px.dns1.qzz.io",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/px.dns1.qzz.io"
-        },
-        {
           "id": "site-1775400772611",
           "name": "Search 影视搜索🔍",
           "url": "https://t.upsubs.com/",
@@ -57,17 +57,17 @@ export const mockData = {
         },
         {
           "id": "site-1775400873461",
-          "name": "Proxy订阅网edg",
+          "name": "Proxy订阅网 edge",
           "url": "https://edg.kkss.dpdns.org",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/edg.kkss.dpdns.org"
         },
         {
-          "id": "site-1775400914151",
-          "name": "优阅官网",
-          "url": "https://upsubs.com",
+          "id": "site-1775400712305",
+          "name": "Proxy订阅中心 终端",
+          "url": "https://px.dns1.qzz.io",
           "description": "",
-          "icon": "https://img.upsubs.us.ci/file/AgACAgUAAyEGAATSBiixAAMDacAi2CWdJBLPTuD7Dkn_J5fA6TAAApAMaxvmHwFWfi84MoryQGkBAAMCAAN5AAM6BA.jpg"
+          "icon": "https://www.faviconextractor.com/favicon/px.dns1.qzz.io"
         }
       ]
     },
@@ -566,7 +566,6 @@ export const mockData = {
       ]
     }
   ],
-  "title": "UPSUB - 优阅导航🧭",
-  "search": "bing",
-  "_fileSha": "a64972c1d1c1ce85bcba7a73a88d4a270eab79e8"
+  "title": "猫猫导航🐱",
+  "search": "bing"
 }

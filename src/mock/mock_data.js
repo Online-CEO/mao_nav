@@ -539,7 +539,7 @@ export const mockData = {
           "name": "LIBVIO",
           "url": "https://www.libvio.app/",
           "description": "关注我们\nTwitter / X：@libvio_group\nhelp@libvio.com  获取最新网址 / 资源反馈",
-          "icon": "https://telegraph-image-2zi.pages.dev/file/AgACAgUAAyEGAATSBiixAAMHadkD3Luo-1awp4C6B19E3XJGaYwAAi4Raxu4D8hW38XIUls0nDYBAAMCAANtAAM7BA.png"
+          "icon": "https://telegraph-image-2zi.pages.dev/file/AgACAgUAAyEGAATSBiixAAMIadkLDt0PaViUG0zCpeeVqrlw5SgAAmARaxu4D8hWT7VJ_9CSC_oBAAMCAANtAAM7BA.png"
         }
       ]
     },

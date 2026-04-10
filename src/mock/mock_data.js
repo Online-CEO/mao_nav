@@ -44,7 +44,7 @@ export const mockData = {
         {
           "id": "site-1775400817191",
           "name": "Telegraph-Image 图床工具",
-          "url": "https://telegraph-image-2zi.pages.dev/",
+          "url": "https://img.0433.dpdns.org",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/telegraph-image-2zi.pages.dev"
         },

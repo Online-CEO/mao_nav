@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://px.dns1.qzz.io",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/px.dns1.qzz.io"
+        },
+        {
+          "id": "site-1775782713776",
+          "name": "Sink 短链接",
+          "url": "https://url.upsubs.com/",
+          "description": "跟长链接说拜拜",
+          "icon": "https://www.faviconextractor.com/favicon/url.upsubs.com"
         }
       ]
     },

@@ -540,6 +540,13 @@ export const mockData = {
           "url": "https://www.libvio.app/",
           "description": "关注我们\nTwitter / X：@libvio_group\nhelp@libvio.com  获取最新网址 / 资源反馈",
           "icon": "https://telegraph-image-2zi.pages.dev/file/AgACAgUAAyEGAATSBiixAAMIadkLDt0PaViUG0zCpeeVqrlw5SgAAmARaxu4D8hWT7VJ_9CSC_oBAAMCAANtAAM7BA.png"
+        },
+        {
+          "id": "site-1776024479969",
+          "name": "Pixiv阅读",
+          "url": "https://www.pixiv.net/",
+          "description": "插画、漫画、小说",
+          "icon": "https://www.faviconextractor.com/favicon/www.pixiv.net"
         }
       ]
     },

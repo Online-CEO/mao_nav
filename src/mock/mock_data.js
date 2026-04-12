@@ -72,10 +72,25 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1776035966073",
+      "icon": "🔍",
+      "name": "资源站",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1776036064687",
+          "name": "Dashboard icons",
+          "url": "https://dashboardicons.com/",
+          "description": "A collection of 2810 curated icons for services, applications and tools, designed specifically for dashboards and app directories.",
+          "icon": "https://www.faviconextractor.com/favicon/dashboardicons.com"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -125,7 +140,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -182,7 +197,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -260,7 +275,7 @@ export const mockData = {
       "id": "category-1774510899116",
       "icon": "☠️",
       "name": "DDDD",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1774510993770",
@@ -282,7 +297,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "linuxdo",
@@ -332,7 +347,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -368,7 +383,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "binance",
@@ -432,7 +447,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "mdn",
@@ -468,7 +483,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "json-formatter",
@@ -504,7 +519,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "bilibili",
@@ -554,7 +569,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "notion",

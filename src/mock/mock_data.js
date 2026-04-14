@@ -68,6 +68,20 @@ export const mockData = {
           "url": "https://url.upsubs.com/",
           "description": "跟长链接说拜拜",
           "icon": "https://www.faviconextractor.com/favicon/url.upsubs.com"
+        },
+        {
+          "id": "site-1776198549857",
+          "name": "Google Analytics",
+          "url": "https://analytics.google.com/",
+          "description": "站点统计分析",
+          "icon": "https://img.0433.dpdns.org/file/AgACAgUAAyEGAATSBiixAAMKad6jiFMJ1zZ4bGbP9rdtj-p8MpAAApkOaxv9cvhWWecIx3JiNDQBAAMCAAN4AAM7BA.png"
+        },
+        {
+          "id": "site-1776198698030",
+          "name": "Microsoft Clarity",
+          "url": "https://clarity.microsoft.com",
+          "description": "站点统计分析",
+          "icon": "https://www.faviconextractor.com/favicon/microsoft.com"
         }
       ]
     },

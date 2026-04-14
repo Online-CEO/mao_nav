@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1775400914151",
-          "name": "优阅官网",
+          "name": "优阅博客",
           "url": "https://upsubs.com",
           "description": "",
           "icon": "https://img.upsubs.us.ci/file/AgACAgUAAyEGAATSBiixAAMDacAi2CWdJBLPTuD7Dkn_J5fA6TAAApAMaxvmHwFWfi84MoryQGkBAAMCAAN5AAM6BA.jpg"

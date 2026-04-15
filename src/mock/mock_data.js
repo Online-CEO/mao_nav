@@ -275,6 +275,13 @@ export const mockData = {
           "url": "https://clarity.microsoft.com",
           "description": "站点统计分析",
           "icon": "https://www.faviconextractor.com/favicon/microsoft.com"
+        },
+        {
+          "id": "site-1776230840934",
+          "name": "Google AdSense",
+          "url": "https://adsense.google.com/",
+          "description": "开启广告变现的首选工具",
+          "icon": "https://www.faviconextractor.com/favicon/adsense.google.com"
         }
       ]
     },

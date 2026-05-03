@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://url.upsubs.com/",
           "description": "跟长链接说拜拜",
           "icon": "https://www.faviconextractor.com/favicon/url.upsubs.com"
+        },
+        {
+          "id": "site-1777810833526",
+          "name": "键盘指法练习",
+          "url": "https://upsubs.com/tools/key-practice/",
+          "description": "Windows键盘指法练习网页：支持字母、数字和 F 键分区训练",
+          "icon": "https://www.faviconextractor.com/favicon/upsubs.com"
         }
       ]
     },
